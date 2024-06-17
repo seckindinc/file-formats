@@ -1,0 +1,7 @@
+{
+    "fields": [
+      {"name": "column1", "type": "int64", "nullable": false},
+      {"name": "column2", "type": "string", "nullable": true}
+    ]
+  }
+  
